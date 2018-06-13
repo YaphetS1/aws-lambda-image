@@ -1,10 +1,10 @@
 {
-  "name": "aws-lambda-image",
-  "version": "0.14.0",
+  "name": "aws-lambda-image-dev",
+  "version": "0.14.2",
   "description": "An AWS Lambda Function to resize/reduce images automatically",
   "config": {
     "profile": "default",
-    "region": "eu-west-1",
+    "region": "us-west-2",
     "memory": "1280",
     "timeout": "5"
   },
